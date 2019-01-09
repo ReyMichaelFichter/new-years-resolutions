@@ -1,0 +1,102 @@
+{
+  "weeks": [
+    {
+      "id": 1,
+      "initialized": true,
+      "habits": [
+        {
+          "id": 1,
+          "title": "Play guitar",
+          "completed": {
+            "mon": true,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        },
+        {
+          "id": 2,
+          "title": "Bring workout clothes to work",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        },
+        {
+          "id": 3,
+          "title": "Meditate",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        }
+      ],
+      "review": {
+        "positives": "What went well?",
+        "negatives": "What could have been better?"
+      }
+    },
+    {
+      "id": 2,
+      "initialized": true,
+      "habits": [
+        {
+          "id": 1,
+          "title": "Poop",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        },
+        {
+          "id": 2,
+          "title": "Bring workout clothes to work",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        },
+        {
+          "id": 3,
+          "title": "Meditate",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        }
+      ],
+      "review": {
+        "positives": "What went well?",
+        "negatives": "What could have been better?"
+      }
+    }
+  ]
+}

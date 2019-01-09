@@ -1,0 +1,242 @@
+{
+  "weeks": [
+    {
+      "id": 1,
+      "initialized": true,
+      "habits": [
+        {
+          "title": "Play guitar",
+          "completed": {
+            "mon": true,
+            "tue": false,
+            "wed": true,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        },
+        {
+          "title": "Bring workout clothes to work",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": true,
+            "thu": true,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        },
+        {
+          "title": "Meditate",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        }
+      ],
+      "review": {
+        "positives": "What went well?",
+        "negatives": "What could have been better?"
+      }
+    },
+    {
+      "id": 2,
+      "initialized": true,
+      "habits": [
+        {
+          "title": "Random thing",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        },
+        {
+          "title": "Bring workout clothes to work",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        },
+        {
+          "title": "Meditate",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        }
+      ],
+      "review": {
+        "positives": "The pooping. ",
+        "negatives": "peeing"
+      }
+    },
+    {
+      "initialized": true,
+      "id": 3,
+      "review": {
+        "positives": "What went well?",
+        "negatives": "What could have been better?"
+      }
+    },
+    {
+      "initialized": true,
+      "id": 4,
+      "review": {
+        "positives": "What went well?",
+        "negatives": "What could have been better?"
+      }
+    },
+    {
+      "initialized": true,
+      "id": 5,
+      "review": {
+        "positives": "What went well?",
+        "negatives": "What could have been better?"
+      }
+    },
+    {
+      "initialized": true,
+      "id": 6
+    },
+    {
+      "initialized": true,
+      "id": 7,
+      "habits": [
+        {
+          "title": "Bring workout clothes to work",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        }
+      ]
+    },
+    {
+      "initialized": true,
+      "habits": [
+        {
+          "title": "Play guitar",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": true,
+            "thu": true,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        }
+      ],
+      "id": 8,
+      "review": {
+        "positives": "What went well?",
+        "negatives": "What could have been better?"
+      }
+    },
+    {
+      "initialized": true,
+      "id": 9,
+      "habits": [
+        {
+          "title": "Play guitar",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": true,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        },
+        {
+          "title": "Meditate",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": true,
+            "thu": false,
+            "fri": true,
+            "sat": false,
+            "sun": false
+          }
+        }
+      ],
+      "review": {
+        "positives": "What went well?",
+        "negatives": "What could have been better?"
+      }
+    },
+    {
+      "initialized": true,
+      "id": 10,
+      "habits": [
+        {
+          "title": "Play guitar",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        },
+        {
+          "title": "Bring workout clothes to work",
+          "completed": {
+            "mon": false,
+            "tue": false,
+            "wed": false,
+            "thu": false,
+            "fri": false,
+            "sat": false,
+            "sun": false
+          }
+        }
+      ]
+    }
+  ],
+  "habits": [
+    {
+      "id": 1,
+      "title": "Play guitar"
+    },
+    {
+      "id": 2,
+      "title": "Bring workout clothes to work"
+    },
+    {
+      "id": 3,
+      "title": "Meditate"
+    }
+  ]
+}

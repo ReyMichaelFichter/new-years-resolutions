@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+li {
+    list-style: none;
+}
+
+.completed {
+    background: green;
+}
+
+.highlight-list-item {
+    font-weight: bold;
+}
